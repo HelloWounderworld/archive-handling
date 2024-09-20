@@ -1,0 +1,32 @@
+[
+    {
+        "api": "https:\/\/api.mystical-forest.com\/unicorns\/lookup?color=rainbow"
+    },
+    {
+        "api": "https:\/\/futuristic-devices.org\/v1\/teleport\/locations "
+    },
+    {
+        "api": "http:\/\/www.ancient-codes.io\/gods\/powers\/activate?hero=hercules "
+    },
+    {
+        "api": "https:\/\/galaxy-travel.io\/api\/planet\/visit?destination=andromeda "
+    },
+    {
+        "api": "http:\/\/portal.time-machine.com\/travel\/century?year=3020 "
+    },
+    {
+        "api": "https:\/\/dragon-rider.com\/v2\/dragon\/select?type=firestorm "
+    },
+    {
+        "api": "https:\/\/magic-portal.net\/spells\/cast?spell=invisibility "
+    },
+    {
+        "api": "http:\/\/www.cyber-fantasy.com\/api\/characters\/create?race=elf&class=wizard"
+    },
+    {
+        "api": "https:\/\/space-explorer.io\/v3\/blackhole\/enter?coordinates=x512z89 "
+    },
+    {
+        "api": "https:\/\/api.parallel-universe.io\/dimensions\/shift?version=altReality2.0 "
+    }
+]
