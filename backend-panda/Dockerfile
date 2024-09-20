@@ -29,6 +29,7 @@ WORKDIR /backend-panda
 COPY ./requirements.txt /backend-panda
 
 # Instale as bibliotecas Python
+RUN apt-get install -y python3.10-venv
 RUN python3 -m venv .venv
 RUN source .venv/bin/activate
 RUN python3 -m pip install --upgrade pip

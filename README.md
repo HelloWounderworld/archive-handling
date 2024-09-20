@@ -22,6 +22,10 @@ If you prefer, with virtual environment, you can use uv to manage more easily ve
 
         python -m venv --help
 
+    If not installed just run
+
+        apt-get install python3.10-venv
+
 3. Creating an virtual environment
 
     Choose the directory that you want to develop and digit the following command
@@ -87,7 +91,7 @@ Tip: If you want to get out of the virtual environment just type
 ## Docker container
 Building the container
 
-    docker run -it -p 8080:8080 -p 3000:3000 archive-handling
+    docker compose up --build -d
 
 Enter in docker container
 
