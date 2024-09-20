@@ -95,6 +95,8 @@ Enter in docker container
 
 Enter frontend directory and run
 
+    npm install
+
     npm run server
 
 ## Bibliotecas Python
