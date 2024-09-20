@@ -84,6 +84,19 @@ Tip: If you want to get out of the virtual environment just type
 
     deactivate
 
+## Docker container
+Building the container
+
+    docker run -it -p 8080:8080 -p 3000:3000 archive-handling
+
+Enter in docker container
+
+    docker exec -it <frontend container id> /bin/bash
+
+Enter frontend directory and run
+
+    npm run server
+
 ## Bibliotecas Python
 
 ### Pandas
